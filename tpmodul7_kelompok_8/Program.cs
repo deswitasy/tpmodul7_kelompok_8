@@ -10,6 +10,7 @@ class Program
     {
 
         DataMahasiswa103022300116.ReadJSON();
-
+        var mahasiswa = new datamahasiswa_103022300052_apriliani();
+        mahasiswa.ReadJSON();
     }
 }
